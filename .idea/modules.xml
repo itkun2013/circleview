@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../StudyDemo.iml" filepath="$PROJECT_DIR$/../StudyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleview.iml" filepath="$PROJECT_DIR$/circleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo_zhy_06_px_bird_game_blog/demo_zhy_06_px_bird_game_blog.iml" filepath="$PROJECT_DIR$/../demo_zhy_06_px_bird_game_blog/demo_zhy_06_px_bird_game_blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo_zhy_09_game_pintu_beta/demo_zhy_09_game_pintu_beta.iml" filepath="$PROJECT_DIR$/../demo_zhy_09_game_pintu_beta/demo_zhy_09_game_pintu_beta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../recyview/recyview.iml" filepath="$PROJECT_DIR$/../recyview/recyview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../swiperefresh/swiperefresh.iml" filepath="$PROJECT_DIR$/../swiperefresh/swiperefresh.iml" />
+    </modules>
+  </component>
+</project>
